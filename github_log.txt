@@ -1,0 +1,46 @@
+commit 812ac32c18ed75257aa6571f5397410e98dc9782
+Merge: 1fa0a44 90492ff
+Author: Aparna Navalu <navaluaparna@gmail.com>
+Date:   Tue Jul 12 23:00:24 2022 +0530
+
+    Merging branch 'test2'
+
+commit 90492ffc1812f5e4d1220d9704344fea73787bbb
+Author: Aparna Navalu <navaluaparna@gmail.com>
+Date:   Tue Jul 12 22:51:51 2022 +0530
+
+    Changes made
+
+commit 46291f63fdca25ad7fdfa37c7bbbe54bf9404aeb
+Author: Aparna Navalu <navaluaparna@gmail.com>
+Date:   Tue Jul 12 22:28:12 2022 +0530
+
+    Revert "Test file 2"
+    
+    This reverts commit 9ab42835fc0786e645b62555cb1fb5bc93d5dd4f.
+
+commit 1fa0a445c694214435bbd5be72b6206b1098d6db
+Author: Aparna Navalu <navaluaparna@gmail.com>
+Date:   Tue Jul 12 22:25:49 2022 +0530
+
+    Revert "Test file 2"
+    
+    This reverts commit 423aadc348836cc522462ffd6bdf97ee92fca188.
+
+commit 9ab42835fc0786e645b62555cb1fb5bc93d5dd4f
+Author: Aparna Navalu <navaluaparna@gmail.com>
+Date:   Tue Jul 12 22:05:46 2022 +0530
+
+    Test file 2
+
+commit 423aadc348836cc522462ffd6bdf97ee92fca188
+Author: Aparna Navalu <navaluaparna@gmail.com>
+Date:   Tue Jul 12 22:05:46 2022 +0530
+
+    Test file 2
+
+commit 57677a9f9e7cb699625771aedb583cb263e10f72
+Author: Aparna Navalu <navaluaparna@gmail.com>
+Date:   Sun Jul 10 22:16:04 2022 +0530
+
+    Test Message
